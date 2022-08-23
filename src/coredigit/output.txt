@@ -1,0 +1,6 @@
+C:\JDK_8\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\lib\idea_rt.jar=59914:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin" -Dfile.encoding=UTF-8 -classpath C:\JDK_8\jre\lib\charsets.jar;C:\JDK_8\jre\lib\ext\access-bridge-64.jar;C:\JDK_8\jre\lib\ext\cldrdata.jar;C:\JDK_8\jre\lib\ext\dnsns.jar;C:\JDK_8\jre\lib\ext\jaccess.jar;C:\JDK_8\jre\lib\ext\localedata.jar;C:\JDK_8\jre\lib\ext\nashorn.jar;C:\JDK_8\jre\lib\ext\sunec.jar;C:\JDK_8\jre\lib\ext\sunjce_provider.jar;C:\JDK_8\jre\lib\ext\sunmscapi.jar;C:\JDK_8\jre\lib\ext\sunpkcs11.jar;C:\JDK_8\jre\lib\ext\zipfs.jar;C:\JDK_8\jre\lib\jce.jar;C:\JDK_8\jre\lib\jfr.jar;C:\JDK_8\jre\lib\jsse.jar;C:\JDK_8\jre\lib\management-agent.jar;C:\JDK_8\jre\lib\resources.jar;C:\JDK_8\jre\lib\rt.jar;D:\Learn\Scala\LearnScala\ScalaAssignment\out\production\ScalaAssignment;C:\Users\k.yadav\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.8.jar;C:\Users\k.yadav\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.13.8.jar coredigit.CoreDigitProblem
+coreDigit(9785): 2
+concatenateNumber("9785 4"): 9785978597859785
+coreDigit(concatenateNumber("9785 4")): 8
+
+Process finished with exit code 0
