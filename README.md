@@ -1,6 +1,6 @@
 # ScalaAssignments
 
-Clone repository ```git clone https://gitz.adform.com/k-yadav/ScalaTraining.git```
+Clone repository ```git clone https://github.com/kishan917/ScalaAssignments.git```
 
 ## Assignments
 ### [Exam_data problem](src/examdata)
